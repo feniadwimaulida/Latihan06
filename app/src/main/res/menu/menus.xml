@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miCherryBarb"
+        android:title="Cherry Barb"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miGuppies"
+        android:title="Guppies"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miMollies"
+        android:title="Mollies"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miNeonTetra"
+        android:title="Neon Tetra"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miOscar"
+        android:title="Oscar"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miPlaties"
+        android:title="Platies"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/miZebraDanios"
+        android:title="Zebra Danios"
+        tools:ignore="HardcodedText" />
+</menu>
